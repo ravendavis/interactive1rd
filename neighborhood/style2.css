@@ -7,12 +7,16 @@ p {
  color: #f2d357;
 }
 
-A {color: #fff;}
+a:hover {
+  color: red;
+}
+a {color: #fff;}
 h1 {
   color: #f2d357;
+
 }
 h2 {
-  color: #f2d357;
+  color: #f2d357; 
 }
 
 ul {
