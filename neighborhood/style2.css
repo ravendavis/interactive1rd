@@ -1,7 +1,17 @@
-
 body {
-  background: orange;
+    background:#1d2c38
+
 }
 p {
   font-family: "Arial Black", Gadget, sans-serif;
+ color: #f2d357;
+}
+
+
+h1 {
+  color: #f2d357
+}
+
+ul {
+  color: #fff;
 }
