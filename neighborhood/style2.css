@@ -7,9 +7,12 @@ p {
  color: #f2d357;
 }
 
-
+A {color: #f2d357;}
 h1 {
-  color: #f2d357
+  color: #f2d357;
+}
+h2 {
+  color: #f2d357;
 }
 
 ul {
