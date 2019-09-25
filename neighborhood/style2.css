@@ -13,10 +13,14 @@ a:hover {
 a {color: #fff;}
 h1 {
   color: #f2d357;
-
-}
+    padding: 60px;
+    text-align: center;
+    background: "https://twaa1126ko-flywheel.netdna-ssl.com/wp-content/uploads/2018/08/Sonoma-best-e1533244410553-1200x351.jpg"
+    color: white;
+    font-size: 40px;
+  }
 h2 {
-  color: #f2d357; 
+  color: #f2d357;
 }
 
 ul {
