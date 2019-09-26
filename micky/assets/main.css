@@ -3,14 +3,14 @@
 * { margin: 0px; padding: 0px; }
 
 /* make the background of the page black */
-body { background: black;}
+body { background: white; }
 
 /* mickey canvas */
-  #canvas {
+#canvas {
   width: 400px;
   height: 600px;
   position: relative;
-  background: white;
+  background: blue;
 }
 
 /* shapes */
@@ -27,6 +27,7 @@ to position them
 */
 
 #ear-1 {
+  right: 165px;
   width: 100px;
   height: 100px;
   background: black;
@@ -74,18 +75,23 @@ to position them
 }
 
 #body {
+  bottom: 200px;
+  right: 50px;
   width: 160px;
   height: 160px;
   background: red;
 }
 
 #button-1 {
+  bottom: 260px;
+  right: 56px;
   width: 32px;
   height: 32px;
   background: black;
 }
 
 #button-2 {
+  
   width: 32px;
   height: 32px;
   background: black;
