@@ -10,7 +10,7 @@ body { background: white; }
   width: 400px;
   height: 600px;
   position: relative;
-  background: blue;
+  background: white;
 }
 
 /* shapes */
@@ -76,7 +76,7 @@ to position them
 
 #body {
   bottom: 200px;
-  right: 50px;
+  right: 1px;
   width: 160px;
   height: 160px;
   background: red;
@@ -91,7 +91,7 @@ to position them
 }
 
 #button-2 {
-  
+
   width: 32px;
   height: 32px;
   background: black;
