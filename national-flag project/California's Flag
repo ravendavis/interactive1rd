@@ -7,7 +7,8 @@
         <link rel="stylesheet" href="national.css" type="text/css" />
 </head>
 <body>
-  <img src="national-flag project/bear">
+  <img src="bear.png"
+
         <div id="canvas">
             <div id="CALIFORNIA"> CALIFORNIA REPUBLIC
 
