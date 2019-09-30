@@ -8,14 +8,29 @@
 </head>
 <body>
   <header>
-      <h1>CALIFORNIA REPUBLIC</h1>
+
   <img src="bear.png"
         <div id="canvas">
-          <p>★
-            <div id="CALIFORNIA"> CALIFORNIA REPUBLIC
+          <style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  position: absolute;
+top: 12%;
+left: 32%;
+  font-size: 30px;
+  text-decoration: underline;
+transform: translate(-50%, -50%);
 
-          <div id="star-five"
+}
+</style>
+</head>
+<body>
 
+<div class="container">
+
+<div id="CALIFORNIA"> CALIFORNIA REPUBLIC
 
 </body>
 </html>

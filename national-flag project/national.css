@@ -3,15 +3,15 @@
 
   }* {  margin: 0px; padding: 0px;}
 body {background: black;}
+}
 h1 {
   color: white;
+  position: absolute;
+  bottom: 2px;
 }
 #canvas {
           width: 500px;
           height: 300px;
           position: absolute;
-          background: gold;}
-          h1 {
-            color: white;
-            bottom: 50%;
-          }
+          background: gold;
+        }
