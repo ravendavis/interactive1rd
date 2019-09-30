@@ -7,9 +7,11 @@
         <link rel="stylesheet" href="national.css" type="text/css" />
 </head>
 <body>
+  <header>
+      <h1>CALIFORNIA REPUBLIC</h1>
   <img src="bear.png"
-
         <div id="canvas">
+          <p>★
             <div id="CALIFORNIA"> CALIFORNIA REPUBLIC
 
           <div id="star-five"
