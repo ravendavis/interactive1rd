@@ -13,13 +13,6 @@ body {background: black;}
 }
 
 
-#canvas {
-  max-width: 500px;
-  max-height: 300px;
-  position: relative;
-  color: white;
-  z-index: 0;
-}
 
 #square {
   width: 500px;
@@ -37,7 +30,7 @@ body {background: black;}
   left:30px;
   font-size: 40px;
   text-align: center;
-  z-index: 2
+  z-index: 3;
 }
 
 img {
@@ -47,11 +40,11 @@ img {
   top: 25px;
   left: 110px;
   background: none;
-  z-index: 1;
+  z-index: 2;
 }
 #star {
   position: absolute;
-  width: 100px;
+  width: 120px;
   height: 90px;
   top: 10px;
   left: -08px;
@@ -72,7 +65,7 @@ img {
               top: 25px;
               left: 55px;
               background: none;
-              z-index: 1;
+              z-index: 2;
             }
     }
     /* flag canvas */
