@@ -12,8 +12,6 @@ body {background: black;}
   position: absolute;
 }
 
-
-
 #square {
   width: 500px;
   height: 300px;
@@ -21,12 +19,20 @@ body {background: black;}
   color: white;
   z-index: 0;
 }
+#bear {
+  position: absolute;
+  width: 400px;
+  height: 200px;
+  top: -1px;
+  left:30px;
+
+}
 
 #CALIFORNIA {
   color: black;
   position: absolute;
   bottom: 2px;
-  top: 190px;
+  top: 210px;
   left:30px;
   font-size: 40px;
   text-align: center;
