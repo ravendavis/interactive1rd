@@ -19,18 +19,8 @@
 </head>
 <body>
 
-<div class="container">
+<img src="bear.png"/>
 
-  <div class="centered">CALIFORNIA REPUBLIC</div>
-
-</div>
-
-</body>
-</html>
-
-        <link rel="stylesheet" href="ognational.css" type="text/css" />
-</head>
-<body>
         <div id="canvas">
 
         </div>

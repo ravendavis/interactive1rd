@@ -1,35 +1,79 @@
 
-    * {
-            margin: 0px; padding: 0px;
-    }
 
-    body {
-            background: black;
-    }
-    /* Container holding the image and the text */
-  .container {
-    position: relative;
-    text-align: center;
-    color: black;
-    /* Centered text */
-.centered {
+  }* {  margin: 0px; padding: 0px;}
+
+
+body {background: black;}
+}
+#rectangle {
+  height: 50px;
+  width: 100px;
+  color: #555;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 
+#canvas {
+  max-width: 500px;
+  max-height: 300px;
+  position: relative;
+  color: white;
+  z-index: 0;
+}
+
+#square {
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  color: white;
+  z-index: 0;
+}
+
+#CALIFORNIA {
+  color: black;
+  position: absolute;
+  bottom: 2px;
+  top: 190px;
+  left:30px;
+  font-size: 40px;
+  text-align: center;
+  z-index: 2
+}
+
+img {
+  position: absolute;
+  width: 300px;
+  height: 160px;
+  top: 25px;
+  left: 110px;
+  background: none;
+  z-index: 1;
+}
+#star {
+  position: absolute;
+  width: 100px;
+  height: 90px;
+  top: 10px;
+  left: -08px;
+}
+
     }
     /* shapes */
-    #circle {
+    #boarder {
       position: absolute;
-      bottom: 600px;
             width: 500px;
-            height: 60px;
+            height: 600px;
             background: red;
 
-
+      img {
+              position: absolute;
+              width: 400px;
+              height: 200px;
+              top: 25px;
+              left: 55px;
+              background: none;
+              z-index: 1;
+            }
     }
     /* flag canvas */
     #canvas {
