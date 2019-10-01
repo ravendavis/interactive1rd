@@ -24,22 +24,22 @@ body {background: black;}
 }
 
 #CALIFORNIA {
-  color: white;
+  color: 011b56;
   position: absolute;
   bottom: 2px;
-  top: 105px;
-  left: 145px;
-  font-size: 25px;
+  top: 240px;
+  left:35px;
+  font-size: 40px;
   text-align: center;
   z-index: 2
 }
 
 img {
   position: absolute;
-  width: 450px;
-  height: 250px;
+  width: 400px;
+  height: 200px;
   top: 25px;
-  left: 30px;
+  left: 55px;
   background: none;
   z-index: 1;
 }
