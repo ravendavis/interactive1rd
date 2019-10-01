@@ -27,17 +27,19 @@ body {background: black;}
   color: white;
   position: absolute;
   bottom: 2px;
-  top: 110px;
-  left: 114px;
-  font-size: 30px;
+  top: 105px;
+  left: 145px;
+  font-size: 25px;
   text-align: center;
   z-index: 2
 }
 
 img {
   position: absolute;
-  width: 500px;
-  height: 300px;
+  width: 450px;
+  height: 250px;
+  top: 25px;
+  left: 30px;
   background: none;
   z-index: 1;
 }
