@@ -7,6 +7,9 @@
 body {
     background: black;
 }
+img {
+  max-width: 100%;
+}
 #desktop {
     display: inline;
     color: white;
