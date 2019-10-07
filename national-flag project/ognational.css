@@ -12,13 +12,7 @@ body {background: black;}
   position: absolute;
 }
 
-#square {
-  width: 500px;
-  height: 300px;
-  position: absolute;
-  color: white;
-  z-index: 0;
-}
+
 #bear {
   position: absolute;
   width: 400px;
@@ -43,7 +37,7 @@ img {
   position: absolute;
   width: 300px;
   height: 160px;
-  top: 25px;
+  top: 30px;
   left: 110px;
   background: none;
   z-index: 2;
@@ -52,7 +46,7 @@ img {
   position: absolute;
   width: 120px;
   height: 90px;
-  top: 10px;
+  top:10px;
   left: -08px;
 }
 
@@ -64,15 +58,7 @@ img {
             height: 600px;
             background: red;
 
-      img {
-              position: absolute;
-              width: 400px;
-              height: 200px;
-              top: 25px;
-              left: 55px;
-              background: none;
-              z-index: 2;
-            }
+
     }
     /* flag canvas */
     #canvas {
