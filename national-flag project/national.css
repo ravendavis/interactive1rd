@@ -7,6 +7,7 @@ body {background: black;}
 }
 
 
+
 #canvas {
   max-width: 500px;
   max-height: 300px;
@@ -33,12 +34,22 @@ body {background: black;}
   text-align: center;
   z-index: 2
 }
+#✫ {
+  color: black;
+  position: absolute;
+  bottom: 2px;
+  top: 240px;
+  left:35px;
+  font-size: 40px;
+  text-align: center;
+  z-index: 2
+}
 
-img {
+#shadow {
   position: absolute;
   width: 400px;
   height: 200px;
-  top: 25px;
+  top: 65px;
   left: 55px;
   background: none;
   z-index: 1;
