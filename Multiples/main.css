@@ -57,8 +57,7 @@ img {
 /* print */
 @media print {
     body {
-        background: white;
-    }
+      
     #print {
         display: inline;
         color: black;
