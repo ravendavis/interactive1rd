@@ -1,0 +1,83 @@
+
+body {background: black;}
+
+
+#bear {
+  position: absolute;
+
+  width: 00px;
+  height: 250px;
+  top: -1px;
+  center:5px;
+z-index: 3;
+}
+
+#CALIFORNIA {
+  color: black;
+  position: absolute;
+  top: 220px;
+  left:70px;
+  font-size: 30px;
+  text-align: ;
+  z-index: 2;
+}
+#REPUBLIC {
+  color: black;
+  position: absolute;
+  bottom: 2px;
+  top: 220px;
+  left:280px;
+  font-size: 30px;
+  text-align: ;
+  z-index: 2;
+}
+#square {
+    top: 260px;
+  position: absolute;
+  height: 40px;
+  width: 500px;
+  background-color: #FF0000;
+}
+#star {
+  position: absolute;
+  width: 100px;
+  height: 70px;
+  top:10px;
+  left: -08px;
+  z-index: 4;
+  
+
+}
+
+
+    #canvas {
+      width: 500px;
+      height: 300px;
+      position: absolute;
+      background: white;
+      z-index: 1;
+background-color: red;
+position: absolute;
+-webkit-animation: myfirst 5s linear 2s infinite alternate; /* Safari 4.0 - 8.0 */
+animation: myfirst 5s linear 2s infinite alternate;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes myfirst {
+0%   {background-color:red;left:0px; top:00px;}
+25%  {background-color:yellow;left:0px; top:00px;}
+50%  {background-color:blue; left:0px; top:00px;}
+75%  {background-color:green; left:0px; top:00px;}
+100% {background-color:red; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes myfirst {
+0%   {background-color:red; left:0px; top:0px;}
+25%  {background-color:yellow; left:000px; top:0px;}
+50%  {background-color:blue; left:000px; top:000px;}
+75%  {background-color:green; left:0px; top:000px;}
+100% {background-color:red; left:0px; top:0px;}
+}
+
+    }
