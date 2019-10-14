@@ -4,38 +4,44 @@ body {background: black;}
 
 #bear {
   position: absolute;
-  width: 400px;
-  height: 200px;
+
+  width: 00px;
+  height: 250px;
   top: -1px;
-  left:30px;
+  center:5px;
 z-index: 3;
 }
 
 #CALIFORNIA {
   color: black;
   position: absolute;
-  bottom: 2px;
-  top: 210px;
-  left:30px;
-  font-size: 40px;
-  text-align: center;
+  top: 220px;
+  left:70px;
+  font-size: 30px;
+  text-align: ;
   z-index: 2;
 }
-#rectangle {
-
-color: black;
+#REPUBLIC {
+  color: black;
   position: absolute;
-  width: 120px;
-  height: 90px;
-  border: solid 21px #f0;
-  width: 50px;
-  height: 50px;
+  bottom: 2px;
+  top: 220px;
+  left:280px;
+  font-size: 30px;
+  text-align: ;
+  z-index: 2;
 }
-
+#square {
+    top: 260px;
+  position: absolute;
+  height: 40px;
+  width: 500px;
+  background-color: #FF0000;
+}
 #star {
   position: absolute;
-  width: 120px;
-  height: 90px;
+  width: 100px;
+  height: 70px;
   top:10px;
   left: -08px;
   z-index: 4;
