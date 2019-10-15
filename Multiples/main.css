@@ -14,6 +14,7 @@ img {
   margin-bottom: auto;
   max-width: 100%;
   height: auto;
+  position: absolute;
 }
 #desktop {
     display: inline;
@@ -21,53 +22,64 @@ img {
 }
 #tablet,
 #mobile,
-#print {
+#smallmobile,
+#gif  {
     display: none;
 }
+
 /* tablet */
-@media (min-width: 670px) and (max-width: 1024px) {
-    body {
-        background: white;
-    }
+@media (min-width: 900px) and (max-width: 1200px) {
     #tablet {
         display: inline;
         color: white;
     }
     #desktop,
     #mobile,
-    #print {
+    #smallmobile,
+    #gif  {
         display: none;
     }
 }
+
 /* mobile */
-@media (max-width: 670px) {
-    body {
-        background: white;
-    }
+@media (max-width: 900px) and (min-width: 600px) {
     #mobile {
         display: inline;
-        color: black;
+        color: white;
     }
     #desktop,
     #tablet,
-    #print {
+    #smallmobile,
+    #gif  {
         display: none;
     }
 }
-/* print */
-@media print {
-    body {
-    #print {
+
+
+
+@media (max-width: 600px) and (min-width:200px) {
+    #smallmobile {
         display: inline;
         color: black;
     }
     #desktop,
     #tablet,
-    #mobile {
+    #mobile,
+    #gif {
         display: none;
     }
-  }
-    #trip{
-      position: absolute;
-      width: 800px;
+}
+
+@media (max-width: 200px) {
+    #gif {
+      transform: scale(1.5);
+      display: inline;
+      color: white;
     }
+    #desktop,
+    #tablet,
+    #mobile,
+    #smallmobile {
+      display: none;
+    }
+}
