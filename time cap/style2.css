@@ -1,0 +1,28 @@
+footer {
+  a
+  width: 3000px;
+}
+div.container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+div.container div.align {
+    position: relative;
+    width: 3000px;
+    left: 50%;
+    margin: 0 0 0 -1500px;
+    text-align: center;
+}
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.clock2 {
+  position: absolute;
+  top: 54%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
