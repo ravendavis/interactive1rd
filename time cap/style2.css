@@ -20,9 +20,9 @@ div.container div.align {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.clock2 {
+.clock {
   position: absolute;
-  top: 54%;
+  top: 4900px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
