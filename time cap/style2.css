@@ -4,3 +4,28 @@ body {
   font-family: Lucidia Console;
   font-size: large;
 }
+a:link {
+  text-decoration: none;
+  color: crimson;
+  font-size: x-large;
+}
+a:visited {
+  text-decoration: none;
+  color: crimson;
+  font-size: x-large;
+}
+a:hover {
+  text-decoration: none;
+  color: maroon;
+  font-size: x-large;
+}
+a:active {
+  text-decoration: none;
+  color: maroon;
+  font-size: x-large;
+}
+
+textarea {
+  resize: none;
+  font-size: large
+}
