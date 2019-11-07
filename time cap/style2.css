@@ -14,14 +14,18 @@ div.container div.align {
     margin: 0 0 0 -1500px;
     text-align: center;
 }
-div.centered {
+div.temp1 {
+    position: absolute;
+}
+divcentered {
   position: absolute;
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-div.clock {
+clock {
   position: absolute;
   top: 4900px;
   left: 50%;
+  transform: translate(-50%, -50%);
 }
