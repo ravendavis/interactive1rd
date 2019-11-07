@@ -1,31 +1,6 @@
-footer {
-  a
-  width: 3000px;
-}
-div.container {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-}
-div.container div.align {
-    position: relative;
-    width: 3000px;
-    left: 50%;
-    margin: 0 0 0 -1500px;
-    text-align: center;
-}
-div.temp1 {
-    position: absolute;
-}
-divcentered {
-  position: absolute;
-  top: 20%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-clock {
-  position: absolute;
-  top: 4900px;
-  left: 50%;
-  transform: translate(-50%, -50%);
+body {
+  background-color: white;
+  color: black;
+  font-family: Lucidia Console;
+  font-size: large;
 }
