@@ -12,14 +12,15 @@
 </div>
 <div class="A letter">
 <style>
-#Atop {
+
+#Atop{
   border-radius: 65px;
   background: #73AD21;
   padding: 20px;
   width: 100px;
   height: 25px;
 }
-#Alside {
+#Alside{
   border-radius: 65px;
   background: #73AD21;
   padding: 20px;
@@ -28,7 +29,7 @@
   position: absolute;
   top: 1%
 }
-#Arside {
+#Arside{
   border-radius: 65px;
   background: #73AD21;
   padding: 20px;
@@ -38,6 +39,7 @@
   left:83px;
   top: 1%
 }
+
 </style>
 <div class="B letter">
 <style>
@@ -183,6 +185,12 @@
       top: 50%
     }
 </style>
+
+<div class="Atop">
+<div class="Alside"></div>
+<div class="ear"></div>
+<div class="vampi-mouth">
+<div class="vampi-tooth"></div>
 
 <p id="Atop"/p>
 <p id="Alside"/p>
