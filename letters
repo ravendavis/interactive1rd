@@ -1,36 +1,209 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ABC</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="letters.css">
 <html>
 <head>
+</div>
+<div class="A letter">
 <style>
-#rcorners1 {
+#Atop {
   border-radius: 65px;
   background: #73AD21;
   padding: 20px;
-  width: 900px;
-  height: 150px;
+  width: 100px;
+  height: 25px;
 }
-#rcorners2 {
+#Alside {
   border-radius: 65px;
   background: #73AD21;
   padding: 20px;
-  width:150px;
-  height: 900px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  top: 1%
 }
-#rcorners3 {
+#Arside {
   border-radius: 65px;
   background: #73AD21;
   padding: 20px;
-  width: 900px;
-  height: 150px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  left:83px;
+  top: 1%
+}
+</style>
+<div class="B letter">
+<style>
+
+#Bmiddle {
+  border-radius: 65px;
+  background: #73AD21;
+  padding: 20px;
+  width: 40px;
+  height: 25px;
+  position: absolute;
+  left:220px;
+  top: 9%
+}
+
+#Blside{
+    border-radius: 65px;
+    background: #73AD21;
+    padding: 20px;
+    width:25px;
+    height: 190px;
+    position: absolute;
+    left:160px;
+    top: 1%
+  }
+  #Brside{
+     border-radius: 65px;
+    background: #73AD21;
+    padding: 20px;
+    width:25px;
+    height: 90px;
+    position: absolute;
+    left:235px;
+    top: 1%
+    }
+
+    #Brside2 {
+       border-radius: 65px;
+      background: #73AD21;
+      padding: 20px;
+      width:25px;
+      height: 53px;
+      position: absolute;
+      left:235px;
+      top: 16%
+      }
+
+    #Btop {
+      border-radius: 65px;
+      background: #73AD21;
+      padding: 20px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:160px;
+      top: 0%
+    }
+    #Bbottom {
+      border-radius: 65px;
+      background: #73AD21;
+      padding: 20px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:160px;
+      top: 20%
+    }
+</style>
+<div class="C letter">
+<style>
+#Ctop {
+  border-radius: 65px;
+  background: #73AD21;
+  padding: 20px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  top: 30%
+}
+#Clside {
+  border-radius: 65px;
+  background: #73AD21;
+  padding: 20px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  top: 30%
+}
+#Cbottom {
+  border-radius: 65px;
+  background: #73AD21;
+  padding: 20px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  top: 50%
 }
 
 </style>
 </head>
 <body>
+  <div class="D letter">
+  <style>
 
-<p id="rcorners1"/p>
+  #Dlside{
+      border-radius: 65px;
+      background: #73AD21;
+      padding: 20px;
+      width:25px;
+      height: 190px;
+      position: absolute;
+      left:160px;
+      top: 31%
+    }
+    #Dtop {
+      border-radius: 65px;
+      background: #73AD21;
+      padding: 20px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:160px;
+      top: 30%
+    }
+     #Drside {
+         border-radius: 65px;
+        background: #73AD21;
+        padding: 20px;
+        width:25px;
+        height: 130px;
+        position: absolute;
+        left:235px;
+        top: 31%
+        }
+    #Dbottom {
+      border-radius: 65px;
+      background: #73AD21;
+      padding: 20px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:160px;
+      top: 50%
+    }
+</style>
+
+<p id="Atop"/p>
+<p id="Alside"/p>
+<p id="Arside"/p>
+
 <p id="rcorners2"/p>
-<p id="rcorners3"/p>
+<p id="Btop"/p>
+<p id="Brside2"/p>
+<p id="Bmiddle"/p>
+<p id="Blside"/p>
+<p id="Brside"/p>
+<p id="Bbottom"/p>
+
+<p id="Ctop"/p>
+<p id="Clside"/p>
+<p id="Cbottom"/p>
+
+<p id="Dtop"/p>
+<p id="Drside"/p>
+<p id="Dlside"/p>
+<p id="Dbottom"/p>
 
 
 </body>
