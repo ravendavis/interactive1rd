@@ -6,8 +6,8 @@
   width: 1em;
   height: 1em;
   position: absolute;
-  left: 0.25em;
-  top: 0.3em;
+  left: 6em;
+  top: 27em;
 }
 
 .eye {
@@ -29,7 +29,7 @@
   animation: blinkEye 0.4s;
 }
 
-@keyframes blinkEye {
+.keyframes blinkEye {
   0% {
     border-radius: 0.5em 0.5em 0.5em 0.5em / 0.6em 0.6em 0.4em 0.4em;
     height: 1em;
@@ -53,10 +53,10 @@
 }
 
 .eye:after { /*pupil*/
-  --pupil-size: 0.2em;
+  --pupil-size: 1em;
   position: absolute;
-  top: 0.05em;
-  left: 0.3em;
+  left: -5em;
+  top: -30em;
   width: var(--pupil-size);
   height: var(--pupil-size);
   background: white;
