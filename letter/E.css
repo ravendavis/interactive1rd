@@ -1,65 +1,46 @@
+body {
 
-.eyes, .eye-lid {
-  text-align: center;
-  display: flex;
-  font-size: 0.55em;
-  width: 1em;
-  height: 1em;
-  position: absolute;
-  left: 6em;
-  top: 27em;
 }
 
-.eye {
-  position: relative;
-  display: inline-block;
-  border-radius: 50%;
-  width: 75%;
-  height: 75%;
-  background-color: black;
-  border-radius: 50%;
-}
-.eye-lid{
-  background-color: white;
-  border-radius: 0.5em 0.5em 0.5em 0.5em / 0.6em 0.6em 0.4em 0.4em;
-  box-shadow: 0.03em 0.14em rgba(0,0,0,0.1);
+#tomato {
+  display: inline-block
 }
 
-.eye-lid.blink, .eye-lid.blink .eyes {
-  animation: blinkEye 0.4s;
-}
-
-.keyframes blinkEye {
-  0% {
-    border-radius: 0.5em 0.5em 0.5em 0.5em / 0.6em 0.6em 0.4em 0.4em;
-    height: 1em;
-  }
-  25% {
-    border-radius: 50%;
-    height: 0.75em;
-  }
-  50% {
-    border-radius: 50%;
-    height: 0.5em;
-  }
-  75% {
-    border-radius: 50%;
-    height: 0.75em;
-  }
-  100% {
-    border-radius: 0.5em 0.5em 0.5em 0.5em / 0.6em 0.6em 0.4em 0.4em;
-    height: 1em;
-  }
-}
-
-.eye:after { /*pupil*/
-  --pupil-size: 1em;
-  position: absolute;
-  left: -5em;
-  top: -30em;
-  width: var(--pupil-size);
-  height: var(--pupil-size);
+#tomato {
   background: white;
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
-  content: " ";
+
+  -webkit-animation-name: rotate;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration:4s
+}
+
+#lightsalmon {
+ background: #2c3e50;
+ height: 50px;
+ width: 50px;
+ border-radius:50%;
+ border:  5px double darkgreen;
+ margin: 23%;
+}
+
+@-webkit-keyframes rotate{
+  0%{-webkit-transform: rotate(-90deg) rotateY(0) scale(0)}
+  30%{-webkit-transform: rotate(90eg) rotateY(0) scale(0.7)}
+  80%{-webkit-transform: rotate(180deg) rotateY(0) scale(1)}
+  100%{-webkit-transform: rotate(-360deg) rotateY(0) scale(0)}
+}
+
+.nose {
+  width: 140px;
+  height: 140px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 130px;
+
+  -webkit-animation-name: rotate;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration:4s
 }

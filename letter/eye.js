@@ -1,25 +1,46 @@
-let eye = $('.eyes');
-var eyeCenterX = eye.width() / 2;
-var eyeCenterY = eye.height() / 2;
-let offset = eye.offset();
-
-$(document).mousemove(mouseMove);
-
-function mouseMove(e) {
-
-    var center_x = (offset.left) + ( eyeCenterX );
-    var center_y = (offset.top) + ( eyeCenterY );
-    var mouse_x = e.pageX;
-    var mouse_y = e.pageY;
-
-    var radians = Math.atan2(mouse_x - center_x, center_y - mouse_y); //y is backwards from cartesian coordinate system. No need to convert to degrees.
-    eye.css('-moz-transform', 'rotate('+radians+'rad)');
-    eye.css('-webkit-transform', 'rotate('+radians+'rad)');
-    eye.css('-o-transform', 'rotate('+radians+'rad)');
-    eye.css('-ms-transform', 'rotate('+radians+'rad)');
+body {
 
 }
 
-setInterval(function() {
-            $(".eye-lid").toggleClass('blink');
-    }, 3500);
+#tomato {
+  display: inline-block
+}
+
+#tomato {
+  background: white;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+
+  -webkit-animation-name: rotate;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration:4s
+}
+
+#lightsalmon {
+ background: #2c3e50;
+ height: 50px;
+ width: 50px;
+ border-radius:50%;
+ border:  5px double darkgreen;
+ margin: 23%;
+}
+
+@-webkit-keyframes rotate{
+  0%{-webkit-transform: rotate(-90deg) rotateY(0) scale(0)}
+  30%{-webkit-transform: rotate(90eg) rotateY(0) scale(0.7)}
+  80%{-webkit-transform: rotate(180deg) rotateY(0) scale(1)}
+  100%{-webkit-transform: rotate(-360deg) rotateY(0) scale(0)}
+}
+
+.nose {
+  width: 140px;
+  height: 140px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 130px;
+
+  -webkit-animation-name: rotate;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration:4s
+}
