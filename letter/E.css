@@ -482,3 +482,78 @@
 .nose31:hover {
     background-color:#e74c3c;
 }
+.nose32 {
+  position: absolute;
+  left:57.3%;
+  top: 78.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose32:hover {
+    background-color:#e74c3c;
+}
+.nose33 {
+  position: absolute;
+  left:69%;
+  top: 82.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose33:hover {
+    background-color:#e74c3c;
+}
+.nose34 {
+  position: absolute;
+  left:67.3%;
+  top: 71.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose34:hover {
+    background-color:#e74c3c;
+}
+    .nose35 {
+      position: absolute;
+      left:8.3%;
+      top: 92.5%;
+      width: 10px;
+      height: 30px;
+      background-color: #e74c3c;
+      border-radius: 50%;
+      margin-left: 8px;
+      -webkit-transform-origin: 50%;
+        -webkit-animation: blink 0.8s infinite;
+    }
+    .nose35:hover {
+        background-color:#e74c3c;
+      }
+.nose36 {
+position: absolute;
+left:14%;
+top: 92.5%;
+width: 10px;
+height: 30px;
+background-color: #e74c3c;
+border-radius: 50%;
+margin-left: 8px;
+-webkit-transform-origin: 50%;
+-webkit-animation: blink 0.8s infinite;
+        }
+.nose36:hover {
+background-color:#e74c3c;}
+}
