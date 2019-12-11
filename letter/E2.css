@@ -164,3 +164,49 @@ left:69%;
                                                     .nose46:hover {
                                                         background-color:#e74c3c;
                                                       }
+                                                      .nose47 {
+                                                        position: absolute;
+                                                      left:66%;
+                                                      top: 104.5%;
+                                                      width: 30px;
+                                                      height: 10px;
+                                                      background-color: #e74c3c;
+                                                      border-radius: 50%;
+                                                      margin-left: 8px;
+                                                      -webkit-transform-origin: 50%;
+                                                      -webkit-animation: blink 0.8s infinite;
+                                                                  }
+                                                      .nose47:hover {
+                                                      background-color:#e74c3c;
+}
+                                                      .nose48 {
+                                                        position: absolute;
+                                                      left:63%;
+                                                      top: 105.5%;
+                                                      width: 30px;
+                                                      height: 10px;
+                                                      background-color: #e74c3c;
+                                                      border-radius: 50%;
+                                                      margin-left: 8px;
+                                                      -webkit-transform-origin: 50%;
+                                                      -webkit-animation: blink 0.8s infinite;
+                                                                  }
+                                                      .nose48:hover {
+                                                      background-color:#e74c3c;
+                                                                    }
+                                                                  }
+                                                                    nose49 {
+                                                                      position: absolute;
+                                                                    left:63%;
+                                                                    top: 105.5%;
+                                                                    width: 30px;
+                                                                    height: 10px;
+                                                                    background-color: #e74c3c;
+                                                                    border-radius: 50%;
+                                                                    margin-left: 8px;
+                                                                    -webkit-transform-origin: 50%;
+                                                                    -webkit-animation: blink 0.8s infinite;
+                                                                                }
+                                                                    .nose48:hover {
+                                                                    background-color:#e74c3c;
+                                                                                  }
