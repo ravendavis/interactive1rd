@@ -15,7 +15,7 @@
   width:25px;
   height: 200px;
   position: absolute;
-  left:1200px;
+  left:1195px;
   top: 0%
 }
 #WM{
@@ -28,3 +28,130 @@
       position: absolute;
       top: 15%
 }
+
+
+#OL{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  left:310px;
+  top: 60%
+}
+#OR{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 150px;
+  position: absolute;
+left:390px;
+top: 65%
+}
+#OB{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 104px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+  top: 79%
+}
+#OT{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 104px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+  top: 60%
+}
+
+
+
+#RL{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 190px;
+    position: absolute;
+      left:1100px;
+    top: 60%
+  }
+  #RT{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 90px;
+    height: 25px;
+    position: absolute;
+  left:1100px;
+    top: 60%
+  }
+   #RR{
+       border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 100px;
+      position: absolute;
+left:1195px;
+      top: 60%
+      }
+  #RB{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 40px;
+    height: 25px;
+    position: absolute;
+left:1180px;
+    top: 69%
+  }
+  #R2R{
+      border-radius: 65px;
+     background: #ffcccc;
+     padding: 10px;
+     width:25px;
+     height: 54px;
+     position: absolute;
+left:1195px;
+     top: 75%
+     }
+
+
+     #ML{
+       border-radius: 65px;
+       background: #ffcccc;
+       padding: 10px;
+       width:25px;
+       height: 200px;
+       position: absolute;
+      left:1100px;
+    top: 90%
+     }
+     #MR{
+       border-radius: 65px;
+       background: #ffcccc;
+       padding: 10px;
+       width:25px;
+       height: 200px;
+       position: absolute;
+left:1195px;
+           top: 90%
+     }
+     #MM{
+           border-radius: 65px;
+           background: #ffcccc;
+           padding: 10px;
+           width: 20px;
+           height: 25px;
+      left:1150px;
+           position: absolute;
+        top: 96%
+     }
