@@ -35,7 +35,7 @@
   background: #ffcccc;
   padding: 10px;
   width:25px;
-  height: 190px;
+  height: 200px;
   position: absolute;
   left:1100px;
   top: 30%
@@ -45,26 +45,26 @@
   background: #ffcccc;
   padding: 10px;
   width:25px;
-  height: 150px;
+  height: 160px;
   position: absolute;
 left:1195px;
-top: 30%
+top: 35%
 }
 #OB{
   border-radius: 65px;
   background: #ffcccc;
   padding: 10px;
-  width: 104px;
+width: 120px;
   height: 25px;
   position: absolute;
 left:1100px;
-  top: 30%
+  top: 50%
 }
 #OT{
   border-radius: 65px;
   background: #ffcccc;
   padding: 10px;
-  width: 104px;
+width: 120px;
   height: 25px;
   position: absolute;
 left:1100px;
