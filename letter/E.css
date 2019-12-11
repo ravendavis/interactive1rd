@@ -1,28 +1,5 @@
 
-#tomato {
-  display: inline-block
-}
 
-#tomato {
-  background: white;
-  height: 30px;
-  width: 30px;
-  border-radius: 50%;
-
-  -webkit-animation-name: rotate;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-duration:4s
-}
-
-#lightsalmon {
-  position: absolute;
- background: #2c3e50;
- height: 5px;
- width: 5px;
- border-radius:50%;
- border:  5px double red;
- margin: 23%;
-}
 
 @-webkit-keyframes rotate{
   0%{-webkit-transform: rotate(-90deg) rotateY(0) scale(0)}
@@ -53,4 +30,45 @@
       visibility: hidden;
     }
   }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+.face {
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    height: 200px;
+    padding: 30px;
+    background: non;
+    transition: .3s ease-in-out;
+}
+
+.face:hover {
+    background: pink;
+}
+
+.eye {
+    background: black;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    -webkit-transform-origin: 50%;
+    -webkit-animation: blink 5s infinite;
+}
+
+@-webkit-keyframes: blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
 }

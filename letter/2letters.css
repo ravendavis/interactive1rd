@@ -1,0 +1,227 @@
+#Gtop {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  top: 30%
+}
+#Glside {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 200px;
+  position: absolute;
+  top: 30%
+}
+#Grside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 100px;
+  position: absolute;
+  left:83px;
+  top: 41%
+}
+#Gmiddle {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 40px;
+  height: 25px;
+  position: absolute;
+  left:68px;
+  top: 40%
+}
+#Gbottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  top: 50%
+}
+#Hmiddle {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+left:160px;
+  top: 40%
+}
+#Hlside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 110px;
+  position: absolute;
+left:160px;
+  top: 30%
+}
+#Hrside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 110px;
+  position: absolute;
+left:235px;
+  top: 40%
+}
+#Hlside2{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 40px;
+    position: absolute;
+left:160px;
+    top: 48%
+  }
+  #Hrside2{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 40px;
+      position: absolute;
+    left:235px;
+      top: 30%
+    }
+#Ilside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 100px;
+  position: absolute;
+  left:350px;
+      top: 36%
+}
+#Itop {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+      top: 30%
+}
+#Ibottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+  top: 50%
+}
+#Jtop {
+border-radius: 65px;
+background: #ffcccc;
+padding: 10px;
+width: 100px;
+height: 25px;
+position: absolute;
+left:460px;
+top: 30%
+}
+#Jmiddle{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 150px;
+  position: absolute;
+  left:499px;
+  top: 36%
+}
+#Jbottom {
+border-radius: 65px;
+background: #ffcccc;
+padding: 10px;
+width: 55px;
+height: 25px;
+position: absolute;
+left:460px;
+top: 50%
+}
+#Llside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 199px;
+  position: absolute;
+  left:760px;
+      top: 30%
+}
+#Lbottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 90px;
+  height: 25px;
+  position: absolute;
+  left:760px;
+        top: 50%
+}
+#Kmiddle {
+border-radius: 65px;
+background: #ffcccc;
+padding: 10px;
+width: 50px;
+height: 25px;
+position: absolute;
+    left:665px;
+top: 40%
+}
+#Klside{
+border-radius: 65px;
+background: #ffcccc;
+padding: 10px;
+width:25px;
+height: 190px;
+position: absolute;
+    left:610px;
+top: 30%
+}
+#Krside{
+border-radius: 65px;
+background: #ffcccc;
+padding: 10px;
+width:25px;
+height: 110px;
+position: absolute;
+left:690px;
+top: 40%
+}
+#Klside2{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 40px;
+  position: absolute;
+    left:610px;
+  top: 48%
+}
+#Krside2{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 60px;
+    position: absolute;
+    left:690px;
+    top: 30%
+  }

@@ -1,0 +1,157 @@
+#Mlside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 200px;
+  position: absolute;
+  left:0px;
+  top: 60%
+}
+#Mrside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 200px;
+  position: absolute;
+  left:90px;
+  top: 60%
+}
+#Mmiddle{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 20px;
+      height: 25px;
+      left:47px;
+      position: absolute;
+      top: 65%
+}
+</style>
+  <style>
+  #Nlside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 200px;
+    position: absolute;
+    left:160px;
+    top: 60%
+  }
+  #Nrside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 200px;
+    position: absolute;
+            left:235px;
+    top: 60%
+  }
+  #Nmiddle{
+        border-radius: 65px;
+        background: #ffcccc;
+        padding: 10px;
+        width: 80px;
+        height: 30px;
+          left:170px;
+        position: absolute;
+        top: 60%
+  }
+  </style>
+<style>
+  #Plside{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 190px;
+      position: absolute;
+      left:460px;
+      top: 60%
+    }
+    #Ptop {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 90px;
+      height: 25px;
+      position: absolute;
+    left:459px;
+      top: 60%
+    }
+     #Prside {
+         border-radius: 65px;
+        background: #ffcccc;
+        padding: 10px;
+        width:25px;
+        height: 100px;
+        position: absolute;
+      left:535px;
+        top: 60%
+        }
+    #Pbottom {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 40px;
+      height: 25px;
+      position: absolute;
+      left:520px;
+      top: 69%
+    }
+
+</style>
+  <style>
+#Rlside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 190px;
+    position: absolute;
+      left:760px;
+    top: 60%
+  }
+  #Rtop {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 90px;
+    height: 25px;
+    position: absolute;
+left:760px;
+    top: 60%
+  }
+   #Rrside {
+       border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 100px;
+      position: absolute;
+left:830px;
+      top: 60%
+      }
+  #Rbottom {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 40px;
+    height: 25px;
+    position: absolute;
+left:815px;
+    top: 69%
+  }
+  #R2rside {
+      border-radius: 65px;
+     background: #ffcccc;
+     padding: 10px;
+     width:25px;
+     height: 54px;
+     position: absolute;
+left:830px;
+     top: 75%
+     }
