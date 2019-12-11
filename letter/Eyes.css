@@ -1804,3 +1804,99 @@ background: black;
 
     -webkit-animation: blink 2s infinite;
 }
+.eye87 {
+  position: absolute;
+  top: 1019px;;
+  left:505px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye88 {
+  position: absolute;
+  top: 1019px;
+  left:529px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye89 {
+  position: absolute;
+  top: 865px;;
+  left:189px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye90 {
+  position: absolute;
+  top: 840px;
+  left:189px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye91 {
+  position: absolute;
+  top: 1px;;
+  left:505px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye92 {
+  position: absolute;
+  top: 850px;
+  left:729px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
