@@ -1870,8 +1870,8 @@ background: black;
 }
 .eye91 {
   position: absolute;
-  top: 1px;;
-  left:505px;
+  top: 850px;;
+  left:697px;
 background: black;
     width: 5px;
     height: 5px;
@@ -1893,6 +1893,38 @@ background: black;
   position: absolute;
   top: 850px;
   left:729px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye93 {
+  position: absolute;
+  top: 850px;;
+  left:497px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye94 {
+  position: absolute;
+  top: 850px;
+  left:463px;
 background: black;
     width: 5px;
     height: 5px;
