@@ -1396,7 +1396,7 @@ top: 120px;
   position: absolute;
   top: 855px;;
   left:342px;
-    background: white;
+background: black;
     width: 5px;
     height: 5px;
     border-radius: 50%;
@@ -1417,7 +1417,7 @@ top: 120px;
   position: absolute;
   top: 855px;
   left:315px;
-    background: white;
+  background: black;
     width: 5px;
     height: 5px;
     border-radius: 50%;
@@ -1480,7 +1480,7 @@ top: 120px;
   position: absolute;
   top: 855px;;
   left:632px;
-    background: white;
+background: black;
     width: 5px;
     height: 5px;
     border-radius: 50%;
@@ -1501,7 +1501,7 @@ top: 120px;
   position: absolute;
   top: 855px;
   left:605px;
-    background: white;
+    background: black;
     width: 5px;
     height: 5px;
     border-radius: 50%;
@@ -1647,8 +1647,40 @@ top: 120px;
 .eye69 {
   position: absolute;
   top: 855px;;
+  left:539px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye70 {
+  position: absolute;
+  top: 855px;
+  left:565px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye69 {
+  position: absolute;
+  top: 855px;;
   left:632px;
-    background: white;
+ background: black;
     width: 5px;
     height: 5px;
     border-radius: 50%;
