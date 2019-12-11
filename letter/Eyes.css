@@ -1644,7 +1644,7 @@ background: black;
         transform: scale(1, 1);
     }
 }
-.eye69 {
+.eye77 {
   position: absolute;
   top: 855px;;
   left:539px;
@@ -1665,7 +1665,7 @@ background: black;
         transform: scale(1, 1);
     }
 }
-.eye70 {
+.eye78 {
   position: absolute;
   top: 855px;
   left:565px;
@@ -1676,7 +1676,7 @@ background: black;
 
     -webkit-animation: blink 2s infinite;
 }
-.eye69 {
+.eye79 {
   position: absolute;
   top: 855px;;
   left:632px;
@@ -1697,11 +1697,107 @@ background: black;
         transform: scale(1, 1);
     }
 }
-.eye70 {
+.eye80 {
   position: absolute;
   top: 855px;
   left:605px;
     background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye81 {
+  position: absolute;
+  top: 905px;;
+  left:865px;
+ background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye82 {
+  position: absolute;
+  top: 906px;
+  left:835px;
+    background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye83 {
+  position: absolute;
+  top: 940px;;
+  left:805px;
+ background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye84 {
+  position: absolute;
+  top: 940px;
+  left:825px;
+    background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye85 {
+  position: absolute;
+  top: 965px;;
+  left:655px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye86 {
+  position: absolute;
+  top: 965px;
+  left:675px;
+background: black;
     width: 5px;
     height: 5px;
     border-radius: 50%;
