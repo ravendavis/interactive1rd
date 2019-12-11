@@ -7,10 +7,13 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose:hover {
     background-color:#e74c3c;
 }
+
 
 .nose2 {
   position: absolute;
@@ -21,6 +24,8 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose2:hover {
     background-color:#e74c3c;
@@ -35,6 +40,8 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose3:hover {
     background-color:#e74c3c;
@@ -49,6 +56,8 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose4:hover {
     background-color:#e74c3c;
@@ -62,6 +71,8 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose5:hover {
     background-color:#e74c3c;
@@ -75,6 +86,8 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose6:hover {
     background-color:#e74c3c;
@@ -88,7 +101,384 @@
   background-color: #ffcccc;
   border-radius: 50%;
   margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
 }
 .nose7:hover {
+    background-color:#e74c3c;
+}
+.nose8 {
+  position: absolute;
+  left:38%;
+  top: 14%;
+  width: 30px;
+  height: 10px;
+  background-color: #ffcccc;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose8:hover {
+    background-color:#e74c3c;
+}
+.nose9 {
+  position: absolute;
+  left:70%;
+  top: 12.7%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose9:hover {
+    background-color:#e74c3c;
+}
+.nose10 {
+  position: absolute;
+  left:07%;
+  top: 32.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose10:hover {
+    background-color:#e74c3c;
+}
+.nose11 {
+  position: absolute;
+  left:27%;
+  top: 32.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose11:hover {
+    background-color:#e74c3c;
+}
+.nose12 {
+  position: absolute;
+  left:27%;
+  top: 52.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose12:hover {
+    background-color:#e74c3c;
+}
+.nose13 {
+  position: absolute;
+  left:45%;
+  top: 32.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose13:hover {
+    background-color:#e74c3c;
+}
+.nose14 {
+  position: absolute;
+  left:55%;
+  top: 42.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose14:hover {
+    background-color:#e74c3c;
+}
+.nose15 {
+  position: absolute;
+  left:57.2%;
+  top: 38.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose15:hover {
+    background-color:#e74c3c;
+}
+.nose16 {
+  position: absolute;
+  left:50.5%;
+  top: 38.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose16:hover {
+    background-color:#e74c3c;
+}
+.nose17 {
+  position: absolute;
+  left:69.5%;
+  top: 52.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose17:hover {
+    background-color:#e74c3c;
+}
+.nose18 {
+  position: absolute;
+  left:50.5%;
+  top: 38.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose18:hover {
+    background-color:#e74c3c;
+}
+.nose19 {
+  position: absolute;
+  left:41.3%;
+  top: 38.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose19:hover {
+    background-color:#e74c3c;
+}
+.nose20 {
+  position: absolute;
+  left:29%;
+  top: 38.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose20:hover {
+    background-color:#e74c3c;
+}
+.nose21 {
+  position: absolute;
+  left:19.5%;
+  top: 36.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose21:hover {
+    background-color:#e74c3c;
+}
+.nose22 {
+  position: absolute;
+  left:13.2%;
+  top: 34.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose22:hover {
+    background-color:#e74c3c;
+}
+.nose23 {
+  position: absolute;
+  left:13.2%;
+  top: 54.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose23:hover {
+    background-color:#e74c3c;
+}
+.nose24 {
+  position: absolute;
+  left:63%;
+  top: 19.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose24:hover {
+    background-color:#e74c3c;
+}
+.nose25 {
+  position: absolute;
+  left:3.7%;
+  top: 67.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose25:hover {
+    background-color:#e74c3c;
+}
+.nose26 {
+  position: absolute;
+  left:0%;
+  top: 83.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose26:hover {
+    background-color:#e74c3c;
+}
+.nose27 {
+  position: absolute;
+  left:7.4%;
+  top: 83.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose27:hover {
+    background-color:#e74c3c;
+}
+.nose28 {
+  position: absolute;
+  left:19.4%;
+  top: 83.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose28:hover {
+    background-color:#e74c3c;
+}
+.nose29 {
+  position: absolute;
+  left:19.4%;
+  top: 83.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose29:hover {
+    background-color:#e74c3c;
+}
+.nose30 {
+  position: absolute;
+  left:57.3%;
+  top: 78.5%;
+  width: 30px;
+  height: 10px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose30:hover {
+    background-color:#e74c3c;
+}
+.nose30 {
+  position: absolute;
+  left:33.3%;
+  top: 62.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose30:hover {
+    background-color:#e74c3c;
+}
+.nose31 {
+  position: absolute;
+  left:43.3%;
+  top: 71.5%;
+  width: 10px;
+  height: 30px;
+  background-color: #e74c3c;
+  border-radius: 50%;
+  margin-left: 8px;
+  -webkit-transform-origin: 50%;
+    -webkit-animation: blink 0.8s infinite;
+}
+.nose31:hover {
     background-color:#e74c3c;
 }
