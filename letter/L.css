@@ -1,0 +1,691 @@
+#Atop{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+}
+#Alside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  top: 1%
+}
+#Arside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  left:83px;
+  top: 1%
+}
+
+
+<div class="B letter">
+
+
+#Bmiddle {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 40px;
+  height: 25px;
+  position: absolute;
+  left:220px;
+  top: 9%
+}
+
+#Blside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 190px;
+    position: absolute;
+    left:160px;
+    top: 1%
+  }
+  #Brside{
+     border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 90px;
+    position: absolute;
+    left:235px;
+    top: 1%
+    }
+
+    #Brside2 {
+       border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 55px;
+      position: absolute;
+      left:235px;
+      top: 16%
+      }
+
+    #Btop {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:160px;
+      top: 0%
+    }
+    #Bbottom {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:160px;
+      top: 20%
+    }
+</style>
+<div class="C letter">
+<style>
+
+#Ctop{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+ left:310px;
+position: absolute;
+top: 0%
+}
+#Clside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 199px;
+    position: absolute;
+    left:310px;
+    top: 0%
+  }
+  #Cbottom {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    left:310px;
+    top: 20%
+  }
+
+</style>
+</head>
+<body>
+  <div class="D letter">
+  <style>
+  #Dlside{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 190px;
+      position: absolute;
+      left:535px;
+      top: 0%
+    }
+    #Dtop {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+    left:456px;
+      top: 0
+    }
+     #Drside {
+         border-radius: 65px;
+        background: #ffcccc;
+        padding: 10px;
+        width:25px;
+        height: 130px;
+        position: absolute;
+      left:458px;
+        top: 8%
+        }
+    #Dbottom {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:458px;
+      top: 020%
+    }
+
+
+
+    </style>
+    <div class="E letter">
+    <style>
+
+    #Etop {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:610px;
+      top: 0%
+    }  #Emiddle {
+        border-radius: 65px;
+        background: #ffcccc;
+        padding: 10px;
+        width: 100px;
+        height: 25px;
+        left:610px;
+        position: absolute;
+        top: 10%
+      }
+
+    #Ebottom {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+      left:610px;
+      top: 20%
+    }
+
+</style>
+<div class="F letter">
+<style>
+#Ftop {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  left:760px;
+  top: 0%
+}
+#Flside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 100px;
+    position: absolute;
+    left:760px;
+    top: 1%
+  }
+  #Flside2{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 40px;
+      position: absolute;
+      left:760px;
+      top: 19%
+    }
+  #Fmiddle {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    left:760px;
+    top: 10%
+  }
+</style>
+<div class="G letter">
+<style>
+
+  #Gtop {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    top: 30%
+  }
+  #Glside {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 200px;
+    position: absolute;
+    top: 30%
+  }
+  #Grside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 100px;
+    position: absolute;
+    left:83px;
+    top: 41%
+  }
+  #Gmiddle {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 40px;
+    height: 25px;
+    position: absolute;
+    left:68px;
+    top: 40%
+  }
+  #Gbottom {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    top: 50%
+  }
+
+
+  </style>
+  <div class="H letter">
+  <style>
+
+  #Hmiddle {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+  left:160px;
+    top: 40%
+  }
+  #Hlside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 110px;
+    position: absolute;
+left:160px;
+    top: 30%
+  }
+  #Hrside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 110px;
+    position: absolute;
+left:235px;
+    top: 40%
+  }
+  #Hlside2{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 40px;
+      position: absolute;
+  left:160px;
+      top: 48%
+    }
+    #Hrside2{
+        border-radius: 65px;
+        background: #ffcccc;
+        padding: 10px;
+        width:25px;
+        height: 40px;
+        position: absolute;
+      left:235px;
+        top: 30%
+      }
+</style>
+<div class="I letter">
+<style>
+#Ilside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 100px;
+    position: absolute;
+    left:350px;
+        top: 36%
+  }
+  #Itop {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    left:310px;
+        top: 30%
+  }
+  #Ibottom {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    left:310px;
+    top: 50%
+  }
+</style>
+
+<div class="I letter">
+<style>
+#Jtop {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  left:460px;
+  top: 30%
+}
+#Jmiddle{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 150px;
+    position: absolute;
+    left:499px;
+    top: 36%
+  }
+#Jbottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 55px;
+  height: 25px;
+  position: absolute;
+  left:460px;
+  top: 50%
+}
+</style>
+
+<div class="L letter">
+<style>
+#Llside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 199px;
+    position: absolute;
+    left:760px;
+        top: 30%
+  }
+  #Lbottom {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 90px;
+    height: 25px;
+    position: absolute;
+    left:760px;
+          top: 50%
+  }
+</style>
+<div class="K letter">
+<style>
+#Kmiddle {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+      left:665px;
+  top: 40%
+}
+#Klside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+      left:610px;
+  top: 30%
+}
+#Krside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 110px;
+  position: absolute;
+left:690px;
+  top: 40%
+}
+#Klside2{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 40px;
+    position: absolute;
+      left:610px;
+    top: 48%
+  }
+  #Krside2{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 40px;
+      position: absolute;
+      left:690px;
+      top: 30%
+    }
+
+
+</style>
+<div class="O letter">
+<style>
+
+#Olside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  left:310px;
+  top: 60%
+}
+#Orside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+left:390px;
+top: 60%
+}
+#Obottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 104px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+  top: 79%
+}
+#Otop {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 104px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+  top: 60%
+}
+</style>
+<style>
+#Etop {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  left:610px;
+  top: 0%
+}  #Emiddle {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    left:610px;
+    position: absolute;
+    top: 10%
+  }
+
+#Ebottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  left:610px;
+  top: 20%
+}
+</style>
+<style>
+#Ulside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+  left:310px;
+  top: 90%
+}
+#Urside{
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width:25px;
+  height: 190px;
+  position: absolute;
+left:390px;
+top: 90%
+}
+#Ubottom {
+  border-radius: 65px;
+  background: #ffcccc;
+  padding: 10px;
+  width: 104px;
+  height: 25px;
+  position: absolute;
+  left:310px;
+  top: 109%
+}
+
+}
+</style>
+<style>
+#Tlside{
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width:25px;
+    height: 142px;
+    position: absolute;
+    left:205px;
+top: 96%
+  }
+  #Ttop {
+    border-radius: 65px;
+    background: #ffcccc;
+    padding: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    left:165px;
+      top: 90%
+  }
+
+  </style>
+    <style>
+    #Stop {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+  top: 90%
+
+    }
+    #Slside {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 109px;
+      position: absolute;
+  top: 90%
+    }
+    #Srside{
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width:25px;
+      height: 100px;
+      position: absolute;
+      left:83px;
+  top: 100%
+    }
+    #Smiddle {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 95px;
+      height: 25px;
+      position: absolute;
+      left:09px;
+  top: 100%
+    }
+    #Sbottom {
+      border-radius: 65px;
+      background: #ffcccc;
+      padding: 10px;
+      width: 100px;
+      height: 25px;
+      position: absolute;
+  top: 109%
+    }

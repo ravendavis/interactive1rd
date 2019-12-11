@@ -1,6 +1,3 @@
-body {
-
-}
 
 #tomato {
   display: inline-block
@@ -8,8 +5,8 @@ body {
 
 #tomato {
   background: white;
-  height: 200px;
-  width: 200px;
+  height: 30px;
+  width: 30px;
   border-radius: 50%;
 
   -webkit-animation-name: rotate;
@@ -18,29 +15,42 @@ body {
 }
 
 #lightsalmon {
+  position: absolute;
  background: #2c3e50;
- height: 50px;
- width: 50px;
+ height: 5px;
+ width: 5px;
  border-radius:50%;
- border:  5px double darkgreen;
+ border:  5px double red;
  margin: 23%;
 }
 
 @-webkit-keyframes rotate{
   0%{-webkit-transform: rotate(-90deg) rotateY(0) scale(0)}
-  30%{-webkit-transform: rotate(90eg) rotateY(0) scale(0.7)}
+  4%{-webkit-transform: rotate(90eg) rotateY(0) scale(0.7)}
   80%{-webkit-transform: rotate(180deg) rotateY(0) scale(1)}
   100%{-webkit-transform: rotate(-360deg) rotateY(0) scale(0)}
 }
 
 .nose {
-  width: 140px;
-  height: 140px;
+  position: absolute;
+  top: 22.5%;
+  width: 30px;
+  height: 10px;
   background-color: #e74c3c;
   border-radius: 50%;
-  margin-left: 130px;
+  margin-left: 8px;
 
-  -webkit-animation-name: rotate;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-duration:4s
+    animation: blink-animation 1s steps(5, start) infinite;
+    -webkit-animation: blink-animation 1s steps(5, start) infinite;
+  }
+  @keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+  }
+  @-webkit-keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+  }
 }
