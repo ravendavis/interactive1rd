@@ -2124,3 +2124,35 @@ background: black;
 
     -webkit-animation: blink 2s infinite;
 }
+.eye107 {
+  position: absolute;
+  top: 695px;;
+  left:725px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye108 {
+  position: absolute;
+  top: 695px;
+  left:695px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
