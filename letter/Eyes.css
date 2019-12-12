@@ -50,7 +50,7 @@
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 3s infinite;
+    -webkit-animation: blink 13s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -71,7 +71,7 @@
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 3s infinite;
+    -webkit-animation: blink 13s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -393,7 +393,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 2s infinite;
+    -webkit-animation: blink 12s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -414,7 +414,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 2s infinite;
+    -webkit-animation: blink 12s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -435,7 +435,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 7s infinite;
+    -webkit-animation: blink 27s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -456,7 +456,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 7s infinite;
+    -webkit-animation: blink 27s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -519,7 +519,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 7s infinite;
+    -webkit-animation: blink 27s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -540,7 +540,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 7s infinite;
+    -webkit-animation: blink 27s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -561,7 +561,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-  -webkit-animation: blink 12s infinite;
+  -webkit-animation: blink 19s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -582,7 +582,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-  -webkit-animation: blink 12s infinite;
+  -webkit-animation: blink 19s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -603,7 +603,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 2s infinite;
+    -webkit-animation: blink 6s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -624,7 +624,7 @@ top: 120px;
     height: 5px;
     border-radius: 50%;
 
-    -webkit-animation: blink 2s infinite;
+    -webkit-animation: blink 6s infinite;
 }
 
 @-webkit-keyframes blink {
