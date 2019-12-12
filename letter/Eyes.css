@@ -1964,3 +1964,67 @@ background: black;
 
     -webkit-animation: blink 2s infinite;
 }
+.eye97 {
+  position: absolute;
+  top: 598px;;
+  left:403px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye98 {
+  position: absolute;
+  top: 560px;
+  left:403px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+.eye99 {
+  position: absolute;
+  top: 740px;;
+  left:240px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+.eye100 {
+  position: absolute;
+  top: 740px;
+  left:268px;
+background: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+
+    -webkit-animation: blink 2s infinite;
+}
